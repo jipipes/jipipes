@@ -26,15 +26,17 @@
   <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 <a href="https://jipipes.github.io">
-  <img src="https://img.shields.io/badge/BLOG-20C997?style=for-the-badge&logo=velog&logoColor=white" alt="Blog" />
+  <img src="https://custom-icon-badges.demolab.com/badge/BLOG-F2B8C6?style=for-the-badge&logo=book&logoColor=1F2328" alt="Blog" />
 </a>
 <a href="https://www.linkedin.com/in/soojin-jeong-dev/">
-  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://custom-icon-badges.demolab.com/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=white" alt="LinkedIn" />
 </a>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:12B886,100:55A46F&height=120&section=footer)
 
 </div>
+
+
 
 
 <!--
