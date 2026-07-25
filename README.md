@@ -1,4 +1,41 @@
-## Hi there 👋
+<div align="center">
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:12B886,100:55A46F&height=180&section=header)
+
+<a href="https://git.io/typing-svg">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=4500&pause=1500&color=20C997&center=true&vCenter=true&width=1000&lines=Data+Engineer+focused+on+reliable+data+products;Data+Pipelines+%C2%B7+Applied+AI+%C2%B7+Workflow+Automation"
+    alt="Data Engineer focused on reliable data products · Data Pipelines · Applied AI · Workflow Automation"
+  />
+</a>
+
+<br />
+<br />
+
+<img
+  src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif"
+  width="300"
+  alt="A cat working on a laptop"
+/>
+
+<br />
+<br />
+<br />
+
+<a href="mailto:soojin.jeong.work@gmail.com">
+  <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+<a href="https://jipipes.github.io">
+  <img src="https://img.shields.io/badge/BLOG-20C997?style=for-the-badge&logo=velog&logoColor=white" alt="Blog" />
+</a>
+<a href="https://www.linkedin.com/in/soojin-jeong-dev/">
+  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:12B886,100:55A46F&height=120&section=footer)
+
+</div>
+
 
 <!--
 **jipipes/jipipes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
