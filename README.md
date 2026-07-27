@@ -12,11 +12,7 @@
 <br />
 <br />
 
-<img
-  src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif"
-  width="300"
-  alt="A cat working on a laptop"
-/>
+<img width="320" height="240" alt="KakaoTalk_Photo_2026-07-27-23-03-34" src="https://github.com/user-attachments/assets/e29c9d48-bf3e-4a05-b765-d0e2e3d32572" />
 
 <br />
 <br />
@@ -35,6 +31,7 @@
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:12B886,100:55A46F&height=120&section=footer)
 
 </div>
+
 
 
 
